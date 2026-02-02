@@ -1,5 +1,10 @@
 This is text file 1. 
 Change in File 1. 
 
+<<<<<<< HEAD
 Edit in file 1 (Branch 1)
+=======
+
+Edit something (Branch 2)
+>>>>>>> Branch2
 
